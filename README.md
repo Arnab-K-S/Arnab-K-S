@@ -59,16 +59,18 @@ I'm a passionate full-stack developer with expertise in creating dynamic and res
 
 ---
 
-## 🌐 Projects
+## PERSONAL PORTFOLIO
 
-### [Project 1](https://github.com/yourusername/project1)
-A brief description of what the project is about and the technologies used.
+### [Personal Portfolio](https://arnab-k-s.github.io/Personal-Portfolio-Reactjs/)
+◦ Brought together all my projects, skills and other professional information to give a sneak peek into my
+knowledge and creativity.
+∗ Feedback Form collects data in Firebase.
+∗ Smooth UI/UX
 
-### [Project 2](https://github.com/yourusername/project2)
-A brief description of what the project is about and the technologies used.
+∗ More Projects listed
+∗ Multiple Themes
 
-### [Project 3](https://github.com/yourusername/project3)
-A brief description of what the project is about and the technologies used.
+◦ Tech Stack: Reactjs, Vanilla CSS, Firebase
 
 ---
 
