@@ -31,8 +31,8 @@ I'm a passionate full-stack developer with expertise in creating dynamic and res
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /><br>CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /><br>React</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" /><br>Next.js</td>
-    <td align="center"><img src="https://shadcn.dev/logo.png" width="50" height="50" alt="ShadCN" /><br>ShadCN</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDP66lv8ezn0wZsIu-JScTGCqP6gavY4QxOpxFQAEwEg&s" width="50" height="50" alt="ShadCN" /><br>ShadCN</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdxy1c2bvl6odeo52dodk.jpg" width="50" height="50" alt="Tailwind CSS" /><br>Tailwind CSS</td>
   </tr>
 </table>
 
