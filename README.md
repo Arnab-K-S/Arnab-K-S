@@ -62,11 +62,10 @@ I'm a passionate full-stack developer with expertise in creating dynamic and res
 ## PERSONAL PORTFOLIO
 
 ### [Personal Portfolio](https://arnab-k-s.github.io/Personal-Portfolio-Reactjs/)
-◦ Brought together all my projects, skills and other professional information to give a sneak peek into my
+Brought together all my projects, skills and other professional information to give a sneak peek into my
 knowledge and creativity.
-∗ Feedback Form collects data in Firebase.
+∗ Feedback Form collects data in Firebase
 ∗ Smooth UI/UX
-
 ∗ More Projects listed
 ∗ Multiple Themes
 
